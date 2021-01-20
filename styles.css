@@ -1,0 +1,68 @@
+.literature-img {
+    height: 200px;
+    width: 200px;
+}
+
+.piano-img {
+    height: 200px;
+    width: 300px;
+}
+
+.About {
+    color: #11457f;
+    font-family: 'Raleway', sans-serif;
+}
+
+.like {
+    color: #e35d6a;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.hobbies {
+    color: #6ea561;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Xanh Mono', monospace;
+}
+
+.fav-websites {
+    color: #ecc226;
+    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Goldman', cursive;
+}
+
+.yours-truly {
+    font-family: 'Raleway', sans-serif;
+
+    font-family: 'Ubuntu', sans-serif;
+
+    font-family: 'Xanh Mono', monospace;
+
+    color: white;
+}
+
+body {
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F2d%2F33%2Ff2%2F2d33f29b936f34804ba81b20feeb1822.gif&f=1&nofb=1");
+
+    opacity: 3;
+}
+
+li {
+    font-family: cambria;
+    font-size: 20px;
+}
+
+p {
+    color: white;
+    opacity: 10;
+}
+
+html {
+    border: 10px solid white;
+    border-style: ridge;
+}
+
+ul {
+    list-style-type: circle;
+}
